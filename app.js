@@ -1,13 +1,5 @@
 let listaDeNumerosSorteados = [];
-<<<<<<< HEAD
-<<<<<<< HEAD
-let numeroLimite = 50;
-=======
-let numeroLimite = 10;
->>>>>>> parent of c4e518e (altarador limite para 100)
-=======
-let numeroLimite = 50;
->>>>>>> 682668672f31e710f298eb19cc378693e2349a32
+let numeroLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
